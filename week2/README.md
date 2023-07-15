@@ -11,10 +11,10 @@ Classification 모델 구현
 
 
 ### Squeeze-and-Excitation Networks
-Channel-wise Training의 중요성을 알려준 논문이다.
+Channel-wise Training의 중요성을 알려준 논문
 
 ### CBAM: Convolutional Block Attention Module
-
+Attention 기법을 이용하여 Channel-wise뿐만 아니라 Spatial도 고려함
 
 ### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 
