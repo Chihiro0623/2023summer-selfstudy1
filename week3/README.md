@@ -24,4 +24,6 @@ mixup이라는 augmentation을 제시한 논문이다. [Presentation](https://gi
 
 ## 구현
 [Project 2](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/week2.pdf)  
+
+
 [보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/Assignment2.pdf)  
