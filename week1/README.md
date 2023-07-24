@@ -1,9 +1,9 @@
 # 연구노트 1주차 (7/3 - 7/7)
 ## 활동 내용
-Lab 접속환경 설정 - Terminal, SSH 인증, SSHFS, 
-개발환경 설정 - PyCharm
-개발 기초 학습 - Python, PyTorch, Tmux, WanDB
-Classification 논문 Review 및 Presentation
+Lab 접속환경 설정 - Terminal, SSH 인증, SSHFS,  
+개발환경 설정 - PyCharm  
+개발 기초 학습 - Python, PyTorch, Tmux, WanDB  
+Classification 논문 Review 및 Presentation  
 Classification 모델 구현
 
 ## 논문 Review
