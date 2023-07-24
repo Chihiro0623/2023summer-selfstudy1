@@ -17,10 +17,10 @@ Channel-wise Training의 중요성을 알려준 논문이다.
 Attention 기법을 이용하여 Channel-wise뿐만 아니라 Spatial도 고려한 모듈을 고안한 논문이다.
 
 ### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
-
+Depth Width Resolution 세 방향을 같은 비율으로 키우는 것이 중요하다는 것을 밝혀낸 논문이다.
 
 ### Distilling the Knowledge in a Neural Network
-
+전문가 모델들을 통한 Ensemble과 Soft Label을 소개한 논문이다.
 
 
 
