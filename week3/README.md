@@ -1,7 +1,7 @@
 # 연구노트 3주차 (7/17 - 7/21)
 ## 활동 내용
-Classification 논문 Review 및 Presentation
-Classification 모델 구현
+Classification 논문 Review 및 Presentation  
+Model 구조 변형을 통한 성능 개선
 
 ## 논문 Review
 | Week   | Paper                                               | Conf | Year   | Review   |
