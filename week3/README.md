@@ -1,7 +1,7 @@
 # 연구노트 3주차 (7/17 - 7/21)
 ## 활동 내용
 Deep learning engineering 논문 Review 및 Presentation  
-Model 구조 변형을 통한 성능 개선  
+Model 구조 변형을 통한 성능 개선 및 Knowledge distillation 구현  
 산학협력 프로젝트 결함예측 합류 
 
 ## 논문 Review
