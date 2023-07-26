@@ -27,5 +27,5 @@ Train data의 일부분을 잘라붙이는 방식의 data augmentation이다.
 
 
 
-## 구현
+## 멘토멘티 프로젝트
 [Project 1](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week1/Project/week1.pdf)
