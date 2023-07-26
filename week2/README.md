@@ -1,6 +1,6 @@
 # 연구노트 2주차 (7/10 - 7/14)
 ## 활동 내용
-Classification 논문 Review  
+Knowledge distillation 논문 Review  
 Classification 모델 구현
 
 ## 논문 Review
