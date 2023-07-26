@@ -2,6 +2,7 @@
 ## 활동 내용
 Classification 논문 Review 및 Presentation  
 Model 구조 변형을 통한 성능 개선
+산학협력 프로젝트 결함예측 합류
 
 ## 논문 Review
 | Week   | Paper                                               | Conf | Year   | Review   |
@@ -22,8 +23,11 @@ deep network의 학습 속도를 저해시키는 internal covariate shift를 해
 
 
 
-## 구현
+## 멘토멘티 프로젝트
 [Assignment 2](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/week2.pdf)  
 
 
 [보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/Assignment2.pdf)  
+
+## 산학협력 프로젝트
+[연구계획서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/%EA%B2%B0%ED%95%A8%EC%98%88%EC%B8%A1(%EC%97%B0%EA%B5%AC%EA%B3%84%ED%9A%8D%EC%84%9C).pdf)  
