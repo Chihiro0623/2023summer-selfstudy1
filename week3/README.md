@@ -1,8 +1,8 @@
 # 연구노트 3주차 (7/17 - 7/21)
 ## 활동 내용
 Classification 논문 Review 및 Presentation  
-Model 구조 변형을 통한 성능 개선
-산학협력 프로젝트 결함예측 합류
+Model 구조 변형을 통한 성능 개선  
+산학협력 프로젝트 결함예측 합류 
 
 ## 논문 Review
 | Week   | Paper                                               | Conf | Year   | Review   |
