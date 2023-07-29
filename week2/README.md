@@ -25,8 +25,6 @@ Depth Width Resolution 세 방향을 같은 비율으로 키우는 것이 중요
 
 
 ## 멘토멘티 프로젝트
-[Assignment 1](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week1/Project/week1.pdf)
-
-[보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week2/Project/Assignment1.pdf)
-
-[코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week2/Project/Assignment1)
+[Assignment 1](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week1/Project/week1.pdf)  
+[보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week2/Project/Assignment1.pdf)  
+[코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week2/Project/Assignment1)  
