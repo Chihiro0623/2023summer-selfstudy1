@@ -1,0 +1,15 @@
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 20 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 25 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 30 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 40 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 50 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 60 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 70 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 80 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 90 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 2 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 5 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 20 --cuda 0,1 ;
+#torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 50 --cuda 0,1 ;
+torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 100 --mul 4 --cuda 0,1 ;
+torchrun --nproc_per_node=2 --master_port=12345 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 100 --mul 5 --cuda 0,1 ;

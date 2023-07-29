@@ -1,0 +1,16 @@
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 10 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 1 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 2 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 3 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 4 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 5 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 6 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 7 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 8 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1 --tcn 9 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 1 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 4 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 10 --cuda 2,3 ;
+#torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 25 --cuda 2,3 ;
+torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 100 --mul 2 --cuda 2,3 ;
+torchrun --nproc_per_node=2 --master_port=11234 train.py --dataset cifar100 -b 128 --use-wandb -p selfstudy1-2 --tcn 100 --mul 3 --cuda 2,3 ;
