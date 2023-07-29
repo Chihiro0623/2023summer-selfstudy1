@@ -1,7 +1,7 @@
 # 연구노트 4주차 (7/24 - 7/28)
 ## 활동 내용
-Deep learning engineering 논문 Review
-산학협력 프로젝트 결함예측 합류  
+Deep learning engineering 논문 Review  
+timm library를 활용한 모델 학습  
 
 ## 논문 Review
 | Week   | Paper                                               | Conf | Year   | Review   |
