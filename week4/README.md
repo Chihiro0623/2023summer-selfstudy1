@@ -20,7 +20,7 @@ timm library를 활용한 모델 학습
 ## 멘토멘티 프로젝트
 [Assignment 3](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week4/Project/week3.pdf)  
 [보고서](https://api.wandb.ai/links/oso0310/wygf3vlf)  
-[코드]()  
+[코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week4/Project/Assignment3)  
 
 
 [Assignment 4](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week4/Project/week4.pdf)  
