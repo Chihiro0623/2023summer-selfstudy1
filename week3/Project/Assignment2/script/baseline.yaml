@@ -1,0 +1,8 @@
+session_name: default
+windows:
+  - window_name: tutorial
+    shell_command_before:
+      - source ~/.bashrc
+    panes:
+      - shell_command:
+          - python3 multi_train.py cifar100 -m resnet50 -c 7 --use-wandb
