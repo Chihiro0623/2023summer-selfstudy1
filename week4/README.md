@@ -1,6 +1,6 @@
 # 연구노트 4주차 (7/24 - 7/28)
 ## 활동 내용
-Deep learning engineering 논문 Review 및 Presentation  
+Deep learning engineering 논문 Review
 산학협력 프로젝트 결함예측 합류  
 
 ## 논문 Review
