@@ -1,7 +1,7 @@
 # 연구노트 5주차 (7/31 - 8/4)
 ## 활동 내용
-Deep learning engineering 논문 Review  
-timm library를 활용한 모델 학습  
+Detection & Segmentation 논문 Review  
+ 
 
 ## 논문 Review
 | Week   | Paper                                               | Conf | Year   | Review   |
