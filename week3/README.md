@@ -26,6 +26,7 @@ deep network의 학습 속도를 저해시키는 internal covariate shift를 해
 ## 멘토멘티 프로젝트
 [Assignment 2](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/week2.pdf)  
 [보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week3/Project/Assignment2.pdf)  
+[WandB](https://api.wandb.ai/links/oso0310/z4rgwldh)  
 [코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week3/Project/Assignment2)
 
 ## 산학협력 프로젝트
