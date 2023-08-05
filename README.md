@@ -1,4 +1,4 @@
-# 영상인식을 위한 딥러닝 아키텍처 초기연구
+# Basic research on deep learning network architecture for visual recognition
 ## 2023-Summer Undergraduate Research I
 
 [1주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week1)  
