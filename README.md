@@ -1,4 +1,5 @@
-# 2023-Summer Undergraduate Research I
+# 영상인식을 위한 딥러닝 아키텍처 초기연구
+## 2023-Summer Undergraduate Research I
 
 [1주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week1)  
 [2주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week2)  
