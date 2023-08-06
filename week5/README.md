@@ -21,5 +21,7 @@ Detection & Segmentation 논문 Review
 
 [Assignment 4](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week5/Project/week4.pdf)
 [보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week5/Project/Assignment4.pdf)  
-WandB  
+[WandB](https://wandb.ai/oso0310/project4/reports/Assignment-4--Vmlldzo1MDY3NzU0)  
 [코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week5/Project/Assignment4)  
+
+[Challenge](https://www.kaggle.com/competitions/cilab-summer-intern-program-challenge/)    
