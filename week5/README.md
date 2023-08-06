@@ -19,7 +19,7 @@ Detection & Segmentation 논문 Review
 
 ## 멘토멘티 프로젝트
 
-[Assignment 4](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week5/Project/week4.pdf)
+[Assignment 4](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week5/Project/week4.pdf)  
 [보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week5/Project/Assignment4.pdf)  
 [WandB](https://wandb.ai/oso0310/project4/reports/Assignment-4--Vmlldzo1MDY3NzU0)  
 [코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week5/Project/Assignment4)  
