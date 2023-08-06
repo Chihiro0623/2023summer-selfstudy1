@@ -24,4 +24,7 @@ Detection & Segmentation 논문 Review
 [WandB](https://wandb.ai/oso0310/project4/reports/Assignment-4--Vmlldzo1MDY3NzU0)  
 [코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week5/Project/Assignment4)  
 
-[Challenge](https://www.kaggle.com/competitions/cilab-summer-intern-program-challenge/)    
+[Challenge](https://www.kaggle.com/competitions/cilab-summer-intern-program-challenge/)  
+
+## 산학협력 프로젝트
+[Poisson Image Augmentation](https://github.com/Chihiro0623/Defect-Prediction-by-CNN/tree/main/poisson-image-editing-master)
