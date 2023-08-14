@@ -19,3 +19,4 @@ Continual Learning
 [Challenge](https://www.kaggle.com/competitions/cilab-summer-intern-program-challenge/)  
 
 ## 개인 프로젝트
+[Assignment 6](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week7/Project/week6.pdf)
