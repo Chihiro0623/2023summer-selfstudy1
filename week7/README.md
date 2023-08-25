@@ -21,4 +21,4 @@ Image Recognition에 Transformer를 이용하기 위한 시도는 이전에도 �
 [Assignment 6](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week7/Project/week6.pdf)
 
 ## 개인 프로젝트
-
+[논문 읽기]()
