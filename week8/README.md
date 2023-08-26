@@ -19,5 +19,7 @@ Vision Transformer와 Multi-head self-attention이 어떻게 작동하는지에 
 
 ## 멘토멘티 프로젝트
 [Challenge](https://www.kaggle.com/competitions/cilab-summer-intern-program-challenge/)  
+[Assignment 7](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week8/Project/week7.pdf)  
+보고서  
+코드  
 
-## 개인 프로젝트
