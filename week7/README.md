@@ -20,6 +20,8 @@ Image Recognition에 Transformer를 이용하기 위한 시도는 이전에도 �
 ## 멘토멘티 프로젝트
 [Challenge](https://www.kaggle.com/competitions/cilab-summer-intern-program-challenge/)  
 [Assignment 6](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week7/Project/week6.pdf)
+[보고서](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week7/Project/Assignment6.pdf)
+[코드](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week7/Project/Assignment6)
 
 ## 개인 프로젝트
 [CaiT 논문 읽기](https://github.com/Chihiro0623/ContinualLearning/blob/main/Study/Papers/Going%20deeper%20with%20Image%20Transformers.pdf)  
