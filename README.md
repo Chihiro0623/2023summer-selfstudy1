@@ -11,3 +11,5 @@
 
 [5주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week5)  
 [6주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week6)  
+[7주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week7)  
+[8주차](https://github.com/Chihiro0623/2023summer-selfstudy1/tree/main/week8)  
