@@ -7,9 +7,10 @@ Continual Learning 공부
 ## 논문 Review
 | Week   | Paper                                               | Conf | Year   | Review   |
 | :----: | ------------------------------------------------------- | :----: | :------------: | :------: |
-|8    | [Intriguing Properties of Vision Transformers](https://arxiv.org/pdf/2105.10497.pdf)<br>[ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/pdf/1811.12231.pdf)<br>[How Do Vision Transformers Work?](https://arxiv.org/pdf/2202.06709.pdf)   |   NIPs<br>ICLR<br>ICLR  | 2021<br>2019<br>2022 | [Review]()<br>[Review]()<br>[Review](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week8/Reviews/How%20Do%20Vision%20Transformers%20Work.pdf ) |
+|8    | [Intriguing Properties of Vision Transformers](https://arxiv.org/pdf/2105.10497.pdf)<br>[ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/pdf/1811.12231.pdf)<br>[How Do Vision Transformers Work?](https://arxiv.org/pdf/2202.06709.pdf)   |   NIPs<br>ICLR<br>ICLR  | 2021<br>2019<br>2022 | [Review](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week8/Reviews/Intriguing%20Properties%20of%20Vision%20Transformers.pdf)<br>[Review]()<br>[Review](https://github.com/Chihiro0623/2023summer-selfstudy1/blob/main/week8/Reviews/How%20Do%20Vision%20Transformers%20Work.pdf ) |
 
 ### Intriguing Properties of Vision Transformers
+Image 처리에 사용된 Transformer의 다양한 속성들, 특히 robustness와 generalizability를 중심으로 파악하고 이를 CNN과 비교한 논문이다. ViT는 이미지를 80%를 가리는 상황에서도 60%의 성능을 내는 등의 높은 robustness를 보여주며, 이는 CNN과 대조적이다. 또한 ViT는 Texture보다 Shape를 중심으로 보며, 이 또한 CNN과 대조적이다. 특히 인상깊었던 내용은 사진을 여러 patch로 나누어 섞은 뒤 성능을 측정해보았을 때인데 당연히 Bias가 높은 CNN보다 Transformer가 더 높은 성능을 보여주었으며, 오히려 CNN을 따라하기 위해 넣은 positional encoding을 뺐을 때 더 성능이 개선되었다는 점이었다.
 
 ### ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness
 
