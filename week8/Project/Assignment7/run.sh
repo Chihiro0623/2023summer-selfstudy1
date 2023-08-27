@@ -1,0 +1,1 @@
+python main.py --cuda 4 --img-label 97 --n-class 100 --data-dir /home/oso0310/private/ddata/ --dataset-type CIFAR100
